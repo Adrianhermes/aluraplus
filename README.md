@@ -3,7 +3,7 @@
 Landing page estatica inspirada na plataforma Alura+, desenvolvida durante os estudos de HTML e CSS.
 
 # Acesse ele por esse link:
-https://aluraplus-pink-xi.vercel.app/
+https://adrianhermes.github.io/aluraplus/
 
 ## Visao geral
 
