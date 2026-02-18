@@ -3,7 +3,8 @@
 Landing page estatica inspirada na plataforma Alura+, desenvolvida durante os estudos de HTML e CSS.
 
 # Acesse ele por esse link:
-https://adrianhermes.github.io/aluraplus/
+https://adrianhermes.github.io/aluraplus/ - Acesso pelo Git Pages
+https://aluraplus-brown-psi.vercel.app/ - Acesso pelo Vercel
 
 ## Visao geral
 
