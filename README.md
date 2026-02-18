@@ -2,6 +2,9 @@
 
 Landing page estatica inspirada na plataforma Alura+, desenvolvida durante os estudos de HTML e CSS.
 
+# Acesse ele por esse link:
+https://aluraplus-pink-xi.vercel.app/
+
 ## Visao geral
 
 O projeto apresenta uma pagina de assinatura com:
