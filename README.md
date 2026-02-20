@@ -76,3 +76,8 @@ Se preferir, use a extensao Live Server no VS Code para rodar em ambiente local.
 ## Autor
 
 Projeto desenvolvido por Adrian Hermes durante os estudos na Alura.
+
+## Imagem do Projeto
+
+<img width="1920" height="4519" alt="ImagemProjeto" src="https://github.com/user-attachments/assets/e3f48358-eab8-44e2-b49e-c1331dd49961" />
+
